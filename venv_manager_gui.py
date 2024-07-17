@@ -73,8 +73,6 @@ class VenvManagerGUI(QMainWindow):
         package_group.setSizePolicy(QSizePolicy.Policy.Preferred, QSizePolicy.Policy.Expanding)
         action_group.setSizePolicy(QSizePolicy.Policy.Preferred, QSizePolicy.Policy.Fixed)
 
-    # ... [rest of the methods remain unchanged] ...
-
 class VenvManagerGUI(QMainWindow):
     def __init__(self):
         super().__init__()
