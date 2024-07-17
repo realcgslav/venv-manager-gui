@@ -2,6 +2,10 @@
 
 This application provides a graphical user interface for managing Python virtual environments. It allows users to create, delete, and manage Python environments and their packages.
 
+## Screenshot
+
+![Python Virtual Environment Manager GUI](assets/venv_manager_screenshot.png)
+
 ## Features
 
 - List all available Python environments (global, pyenv, and virtual environments)
@@ -21,7 +25,7 @@ This application provides a graphical user interface for managing Python virtual
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/python-venv-manager-gui.git
+   git clone https://github.com/realcgslav/python-venv-manager-gui.git
    cd python-venv-manager-gui
    ```
 
@@ -59,4 +63,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
